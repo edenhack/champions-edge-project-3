@@ -2,6 +2,8 @@
 
 * React.js / Vue / Angular
 * League of Legends API
+* Data Dragon LoL assets
+* MySQL Database
 
 ## Proposal
 
@@ -14,4 +16,6 @@ I will be using an outside grandmaster player's assistance to develop this appli
 ### Database
 
 Expected database needs are unkown currently as I need to research the LoL API and what all is able to be dynamically pulled from their servers instead of retaining it on my own database considering the massive quantity of data that will be needed.
+
+Based on possible needs for heavy relation based data, if database is needed it will be MySQL based.
 
