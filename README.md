@@ -4,6 +4,12 @@
 * League of Legends API
 * Data Dragon LoL assets
 * MySQL Database
+* Recharts JS
+* Twitch API
+* React-Router-Dom
+* Axios
+* Express
+
 
 ## Proposal
 

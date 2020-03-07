@@ -1,3 +1,6 @@
+# Cache
+tmpnodejsnpm-cache/
+
 # Logs
 logs
 *.log
