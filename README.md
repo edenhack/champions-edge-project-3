@@ -1,6 +1,6 @@
 # Project 3
 
-* Vue w/ Vuetify
+* React.js
 * League of Legends API
 * Data Dragon LoL assets
 * MySQL Database
