@@ -1,5 +1,5 @@
-# Cache
-tmpnodejsnpm-cache/
+# cache
+/tmpnodejsnpm-cache
 
 # Logs
 logs

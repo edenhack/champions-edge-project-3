@@ -6,6 +6,12 @@ function Nav() {
             <a className = "navbar-brand" href="/">
                 Champion's Edge
             </a>
+            <a className = "navbar-item" href="/champion">
+                Champions
+            </a>
+            <a className = "navbar-item" href="/summoner">
+                Summoner
+            </a>
         </nav>
     );
 }
