@@ -1,4 +1,18 @@
+.navbar-brand h3{
+  color:white;
+  margin: 10px;
+}
+
 .navbar-item{
   color:white;
+  margin: 10px;
+}
+
+a:hover{
+  color: white;
+}
+
+.navbar-item-twitch{
+  color:purple;
   margin: 10px;
 }

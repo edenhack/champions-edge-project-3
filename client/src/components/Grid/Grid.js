@@ -1,4 +1,5 @@
 import React from "react";
+import "./Grid.css";
 
 export function Container ({fluid, children}) {
     return <div className={`contianer${fluid ? "-fluid" : ""}`}>{children}</div>;

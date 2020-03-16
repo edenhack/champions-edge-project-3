@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import { Col, Row, Container } from "../components/Grid/Grid";
-//import Nav from "../components/NavBar";
+import { Col, Row, Container } from "../../components/Grid/Grid";
+import "./Home.css";
 
 const Home = () => {
     return (
