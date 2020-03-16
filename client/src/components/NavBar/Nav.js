@@ -3,7 +3,7 @@ import "./Nav.css";
 
 function Nav() {
     return (
-        <nav className = "navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav className = "navbar navbar-expand-lg navbar-dark bg-light">
             <a className = "navbar-brand" href="/">
                 <h3>Champion's Edge</h3>
             </a>
