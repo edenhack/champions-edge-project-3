@@ -1,11 +1,11 @@
-.navbar {
+.navbar{
     outline-style:solid;
     outline-color: purple;
     margin-bottom: 10px;
 }
 
 .navbar-brand h3{
-  color:red;
+  color:blue;
   margin: 10px;
 }
 
@@ -21,8 +21,4 @@ a:hover{
 .navbar-item-twitch{
   color:purple;
   margin: 10px;
-}
-
-body {
-  color: white;
 }
