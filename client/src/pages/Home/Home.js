@@ -7,20 +7,14 @@ const Home = () => {
     return (
         <Container fluid>
             <Row>
-                <Col size = "md-4">
+                <Col size = "md-2">
                 </Col>
-                <Col size = "md-4">
-                    <h1>Champion's Edge </h1>
+                <Col size = "md-8">
+                  <center>
+                    <h1>Welcome to Champion's Edge</h1>
+                  </center>
                 </Col>
-                <Col size = "md-4">
-                </Col>
-            </Row>
-            <Row>
-                <Col size = "md-4">
-                </Col>
-                <Col size = "md-4">
-                    <br></br>
-                    <Form/>
+                <Col size = "md-2">
                 </Col>
             </Row>
         </Container>
