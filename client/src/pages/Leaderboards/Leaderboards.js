@@ -31,7 +31,8 @@ const Leaderboards = () => {
                     <Col size = "md-2">
                     </Col>
                     <Col size = "md-8">
-                        <Jumbotron/>
+                        <Jumbotron>
+                        </Jumbotron>
                     </Col>
                     <Col size = "md-2">
                     </Col>

@@ -4,9 +4,10 @@
     margin-bottom: 10px;
 }
 
-.navbar-brand h3{
-  color:blue;
+.navbar-brand img{
   margin: 10px;
+  height: 50px;
+  width: 200px;
 }
 
 .navbar-item{
@@ -15,7 +16,7 @@
 }
 
 a:hover{
-  color: white;
+  color: red;
 }
 
 .navbar-item-twitch{

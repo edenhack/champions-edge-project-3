@@ -1,20 +1,15 @@
 import React, { useState, useEffect } from "react";
 import { Col, Row, Container } from "../../components/Grid/Grid";
-import Form from "../../components/Form/Form";
 import "./Home.css";
 
 const Home = () => {
     return (
-        <Container fluid>
+        <Container>
             <Row>
-                <Col size = "md-2">
+                <Col size = "md-7">
                 </Col>
-                <Col size = "md-8">
-                  <center>
-                    <h1>Welcome to Champion's Edge</h1>
-                  </center>
-                </Col>
-                <Col size = "md-2">
+                <Col size = "md-5">
+                    <h1>Champion's Edge</h1>
                 </Col>
             </Row>
         </Container>
