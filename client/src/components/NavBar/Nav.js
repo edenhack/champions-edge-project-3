@@ -3,9 +3,9 @@ import "./Nav.css";
 
 function Nav() {
     return (
-        <nav className = "navbar navbar-expand-lg navbar-dark bg-light">
+        <nav className = "navbar navbar-expand-lg navbar-dark bg-dark">
             <a className = "navbar-brand" href="/">
-                <img src="../../images/riot logo.png" alt= "Champion's Edge Homepage"/>
+                <img src="https://www.bing.com/th?id=OIP.HIUJcNa-EMiTBiChvxHJKQHaGu&pid=Api&rs=1" alt= "Champion's Edge Homepage"/>
             </a>
             <a className = "navbar-item" href="/champion">
                 Champions
